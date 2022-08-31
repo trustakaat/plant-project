@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <Head>
+        <link rel="stylesheet" href="practice style.css">
+        <script src="watering.js"></script>
+    </Head>
+    <body>
+
+        <header>
+            <h1 id="heading">Plant Watering Timer</h1>
+        </header>
+        <div id="content">
+            <div id="box">
+                <h1 id="name">
+                    plants that need water
+                    <img id="log2"  src="leaf.png">
+                </h1>
+                <p>
+                    there are a few plants that mean a lot to me and i need to keep them watered and healthy.
+                </p>
+                <button type="button" id="button">watered and fertilized</button>
+                <div id="timer"> </div>
+             
+                    <img id="log" src="Philodendron-White-Knight-1.jpg">
+                
+                 
+            </div>
+            <div id="box">
+                <h1 id="name">
+                    plants that need water
+                    <img id="log2"  src="leaf.png">
+                </h1>
+                <p>
+                    there are a few plants that mean a lot to me and i need to keep them watered and healthy.
+                </p>
+                <button type="button" id="button">watered</button>
+                <button type="button" id="button">fertilized</button>
+                
+                    <img id="log" src="Philodendron-White-Knight-1.jpg">
+                
+                
+    
+            </div>
+            <div id="box">
+                <h1 id="name">
+                    plants that need water
+                    <img id="log2"  src="leaf.png">
+                </h1>
+                <p>
+                    there are a few plants that mean a lot to me and i need to keep them watered and healthy.
+                </p>
+                <button type="button" id="button">watered</button>
+                <button type="button" id="button">fertilized</button>
+                
+                    <img id="log" src="Philodendron-White-Knight-1.jpg">
+                
+
+            </div>
+
+        </div>
+            
+
+    
+       
+            
+        
+    </body>
+</html>
